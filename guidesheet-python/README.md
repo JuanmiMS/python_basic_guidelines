@@ -43,3 +43,9 @@ python guidesheet-python/01_basic/01_print.py
 This repository is both a personal cheat sheet and a teaching aid: a small,
 accessible collection of examples that helps explain Python's essential ideas
 clearly.
+
+## Based on
+
+This guide is based on the [complete Python beginner course by Midudev](https://www.youtube.com/watch?v=TkN2i-_4N4g).
+The examples and exercises here are organised as a concise reference and may
+be adapted for personal practice or teaching.
