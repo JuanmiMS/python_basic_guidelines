@@ -31,7 +31,7 @@ print(lista2[1])  # peras
 print(lista2[-1]) # plátanos
 print(lista2[-2]) # peras
 
-print(lista_de_listas[1][0])
+print(lista_de_listas[1][0]) # calcetin
 
 # Slicing (rebanado) de listas
 lista1 = [1, 2, 3, 4, 5]
@@ -42,8 +42,9 @@ print(lista1[:]) # [1, 2, 3, 4, 5]
 
 # El tercer parámetro es el paso (step)
 lista1 = [1, 2, 3, 4, 5, 6, 7, 8]
-print(lista1[::2]) # para devolver índices pares
-print(lista1[::-1]) # para devolver índices inversos
+print(lista1[::2]) # para devolver índices pares. 2, 4, 6, 8
+print(lista1[1::2]) # para devolver índices impares. 1, 3, 5, 7
+print(lista1[::-1]) # para devolver índices inversos. 8, 7, 6, 5, 4, 3, 2, 1
 
 # Modificar una lista
 lista1[0] = 20
