@@ -1,0 +1,5 @@
+print("Hello, World!")
+print('This is also working')
+print("this", "is", "a", "test")
+print("this", "is", "a", "test", "with", "custom", "end", end=" ")
+print("this", "is", "a", "test", "with", "custom", "separator", sep="-")
